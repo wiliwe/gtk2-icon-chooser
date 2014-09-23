@@ -16,13 +16,13 @@ Folders
 ####_Src_####
   Contains source codes and shell scripts to retrieve gettext string and conver it to MO file.  
   Just run the command `make` to build code.  
-#### Src/doxygen ####
+####_Src/doxygen_####
   Contains Doxygen configuration files for generating document with or without graphs.  
   There have two generated HTML document(with graph) archives compressed in tarball and 7zip,  
   the contents of them are the same.. 
-#### Src/po ####
+####_Src/po_####
   Contains GNU gettext PO, POT and MO files.
-#### Src/local ####
+####_Src/local_####
   Contains GNU gettext MO files which are for Traditional Chinese with UTF-8 encoding.
-#### Ref_Docs ####
+####_Ref_Docs_####
   Contains two reference document archives compressed using tarball and 7zip, the contents of them are the same.
