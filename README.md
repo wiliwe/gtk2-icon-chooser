@@ -11,3 +11,5 @@ As a tool written in GTK+ 2.0 library to let a user browse icons under a designa
 ######_GTK+ 2.0 App - Icon Chooser_######
 <http://www.slideshare.net/wiliwe/>  
 
+Folders
+-------
