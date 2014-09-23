@@ -16,6 +16,10 @@ Folders
 ####_Src_####
   Contains source codes and shell scripts to retrieve gettext string and conver it to MO file.  
   Just run the command `make` to build code.  
+  
+  `get_text.sh` - to retrieve gettext enclosed string into a .po file and rename this .po file to .pot file.
+  `convrt_po.sh` - to convert translated .po file into .mo file and copy the .mo file into the sub-directories under
+Src/local/.
 ####_Src/doxygen_####
   Contains Doxygen configuration files for generating document with or without graphs.  
   There have two generated HTML document(with graph) archives compressed in tarball and 7zip,  
